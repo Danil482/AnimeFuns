@@ -1,1 +1,1 @@
-# AnimeFuns_v2.0
+# AnimeFuns
